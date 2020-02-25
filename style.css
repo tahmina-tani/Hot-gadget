@@ -1,0 +1,23 @@
+.width{
+    width:80%;
+}
+.cus-nav{
+    margin-top: 20px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.See-All{
+    color: yellow;
+    float: right;
+}
+.card{
+    border:"none";
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
