@@ -2,7 +2,7 @@
     width:80%;
 }
 .cus-nav{
-    margin-top: 20px;
+    margin-top: 30px;
 }
 .carousel-item{
     padding: 20px 40px;
@@ -14,10 +14,39 @@
 }
 .See-All{
     color: yellow;
+    /* float: right; */
+}
+.See-All1{
     float: right;
+    color:yellow;
 }
 .card{
     border:"none";
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 10px;
+}
+.container{
+    margin-top: 3%;
+}
+.color{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.catt-1{
+    border-top-left-radius: 3px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 30px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.catt-2{
+    border-top-left-radius: 3px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 3px;
+    box-shadow: 5px 5px 15px lightgray;
+    margin-bottom: 20px;
+}
+.catt-3 img{
+    width: 100%;
 }
